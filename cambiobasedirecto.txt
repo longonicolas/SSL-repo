@@ -1,0 +1,24 @@
+- Cambio de base mediante pasaje directo
+
+si tenemos numeros que estan en una determinada base, y queremos pasarlos a otra base y estos
+son potencia entre si, se puede hacer cambio de base sin pasar por el sistema decimal
+
+ej: 11011100100 base 4 a base 2
+al ser 4 potencia de 2, hacemos una tabla con los digitos de cada base
+
+2          4
+
+00        0
+01        1
+10        2
+11        3
+
+entonces 
+00: 0
+01: 1
+10: 2
+11: 3
+10: 2
+01: 1 
+
+por lo tanto = 10310 base 4
